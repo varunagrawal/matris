@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrisSVICS", "MatrisSVICS\MatrisSVICS.csproj", "{1F16082D-8CEF-4A66-9F7B-A4E7402FB0CA}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://varunagrawal.visualstudio.com/defaultcollection
+		SccProjectUniqueName0 = MatrisSVICS\\MatrisSVICS.csproj
+		SccProjectName0 = MatrisSVICS
+		SccLocalPath0 = MatrisSVICS
+		SccLocalPath1 = .
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F16082D-8CEF-4A66-9F7B-A4E7402FB0CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F16082D-8CEF-4A66-9F7B-A4E7402FB0CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F16082D-8CEF-4A66-9F7B-A4E7402FB0CA}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{1F16082D-8CEF-4A66-9F7B-A4E7402FB0CA}.Debug|ARM.ActiveCfg = Debug|ARM
+		{1F16082D-8CEF-4A66-9F7B-A4E7402FB0CA}.Debug|ARM.Build.0 = Debug|ARM
+		{1F16082D-8CEF-4A66-9F7B-A4E7402FB0CA}.Debug|ARM.Deploy.0 = Debug|ARM
+		{1F16082D-8CEF-4A66-9F7B-A4E7402FB0CA}.Debug|x86.ActiveCfg = Debug|x86
+		{1F16082D-8CEF-4A66-9F7B-A4E7402FB0CA}.Debug|x86.Build.0 = Debug|x86
+		{1F16082D-8CEF-4A66-9F7B-A4E7402FB0CA}.Debug|x86.Deploy.0 = Debug|x86
+		{1F16082D-8CEF-4A66-9F7B-A4E7402FB0CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F16082D-8CEF-4A66-9F7B-A4E7402FB0CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F16082D-8CEF-4A66-9F7B-A4E7402FB0CA}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{1F16082D-8CEF-4A66-9F7B-A4E7402FB0CA}.Release|ARM.ActiveCfg = Release|ARM
+		{1F16082D-8CEF-4A66-9F7B-A4E7402FB0CA}.Release|ARM.Build.0 = Release|ARM
+		{1F16082D-8CEF-4A66-9F7B-A4E7402FB0CA}.Release|ARM.Deploy.0 = Release|ARM
+		{1F16082D-8CEF-4A66-9F7B-A4E7402FB0CA}.Release|x86.ActiveCfg = Release|x86
+		{1F16082D-8CEF-4A66-9F7B-A4E7402FB0CA}.Release|x86.Build.0 = Release|x86
+		{1F16082D-8CEF-4A66-9F7B-A4E7402FB0CA}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

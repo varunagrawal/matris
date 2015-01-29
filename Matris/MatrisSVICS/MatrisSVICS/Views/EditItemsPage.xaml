@@ -1,0 +1,83 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="MatrisSVICS.Views.EditItemsPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True"
+    xmlns:abu="clr-namespace:AppBarUtils;assembly=AppBarUtils"
+    xmlns:i="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity">
+
+    <phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar>
+            <shell:ApplicationBarIconButton IconUri="/Assets/Icons/save.png" Text="save"/>
+            <shell:ApplicationBarIconButton IconUri="/Assets/Icons/cancel.png" Text="cancel"/>
+            <shell:ApplicationBarIconButton IconUri="/Assets/Icons/delete.png" Text="delete"/>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>
+
+    <i:Interaction.Behaviors>
+        <abu:AppBarItemCommand Id="save" Command="{Binding SaveEditedListCommand}"/>
+        <abu:AppBarItemCommand Id="cancel" Command="{Binding CancelOperationCommand}"/>
+        <abu:AppBarItemCommand Id="delete" Command="{Binding DeleteCurrentItemCommand}"/>
+    </i:Interaction.Behaviors>
+
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="90"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel Grid.Row="0" Margin="5,17,0,28">
+            <TextBlock Text="matris" Margin="15,0,0,0" Style="{StaticResource PhoneTextNormalStyle}"/>
+            <TextBlock Text="edit items" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+        </StackPanel>
+
+        <TextBlock Margin="15,0,0,0" Grid.Row="1" TextWrapping="Wrap" FontSize="22" Foreground="{StaticResource PhoneSubtleBrush}">
+            Click any of the boxes below to start editing. 
+            Use the checkboxes to the left to select items that you want to delete.
+        </TextBlock>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="2" Margin="15,0,12,0">
+            <ListBox ItemsSource="{Binding EditedItemList, Mode=TwoWay}" >
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="55"/>
+                                <ColumnDefinition Width="250"/>
+                                <ColumnDefinition Width="70"/>
+                                <!--<ColumnDefinition Width="70"/>-->
+                            </Grid.ColumnDefinitions>
+                            <CheckBox Grid.Column="0" HorizontalAlignment="Right"  IsChecked="{Binding IsSelected, Mode=TwoWay}"/>
+                            <TextBox Width="200" FontSize="22" x:Name="NewItemName" Text="{Binding ItemName, Mode=TwoWay}" Grid.Column="1"/>
+                            <TextBox Width="70" FontSize="22" x:Name="NewQuantity" Text="{Binding Quantity, Mode=TwoWay}" Grid.Column="2" InputScope="Number"/>
+                            <!--<Button Grid.Column="2" Height="100" Width="100" Command="{Binding DeleteCurrentItemCommand}">
+                                    <Image Source="\Assets\Icons\Remove.png" />
+                                </Button>-->
+                            <!--<TextBlock Grid.Column="2"  Margin="30,0,0,0" VerticalAlignment="Top" FontFamily="Segoe UI Symbol" FontSize="50" FontWeight="Thin" FontStretch="UltraCondensed">◯</TextBlock>
+                                <Button Grid.Column="2" Width="90" HorizontalAlignment="Left" VerticalAlignment="Top" x:Name="AddButton" Command="{Binding AddItemsCommand}" FontFamily="Segoe UI Symbol" FontSize="30"  BorderThickness="0">➖</Button>-->
+                        </Grid>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+        </Grid>
+
+        <!--<Grid Grid.Row="2">            
+            <Button HorizontalAlignment="Center" VerticalAlignment="Center" x:Name="SaveButton" Content="Save" Command="{Binding SaveEditedListCommand}"/>      
+        </Grid>-->
+    </Grid>
+
+</phone:PhoneApplicationPage>

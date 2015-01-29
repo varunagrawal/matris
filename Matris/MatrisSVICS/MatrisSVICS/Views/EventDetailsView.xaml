@@ -1,0 +1,64 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="MatrisSVICS.Calendar.EventDetailsView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:views="clr-namespace:MatrisSVICS.Calendar.View"
+    mc:Ignorable="d"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="PortraitOrLandscape"  Orientation="Portrait"
+    shell:SystemTray.IsVisible="False">
+
+    <!--LayoutRoot contains the root grid where all other page content is placed-->
+    <Grid x:Name="LayoutRoot">
+        <phone:Panorama x:Name="eventDetails" Title="EVENT" TitleTemplate="{StaticResource SmallPanoramaTitle}" >
+
+            <!--Panorama item one-->
+            <phone:PanoramaItem>
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="96" />
+                        <RowDefinition Height="120" />
+                        <RowDefinition Height="96" />
+                        <RowDefinition Height="120" />
+                    </Grid.RowDefinitions>
+                    <TextBlock Text="name" Style="{StaticResource PhoneTextExtraLargeStyle}" Foreground="Orange" Grid.Row="0" />
+                    <TextBlock x:Name="eventName" Text="{Binding}" Style="{StaticResource PhoneTextLargeStyle}" HorizontalAlignment="Left"  VerticalAlignment="Stretch" Grid.Row="1" TextWrapping="Wrap" />
+                    <TextBlock Text="age of child" Style="{StaticResource PhoneTextExtraLargeStyle}" Foreground="Orange" Grid.Row="2" HorizontalAlignment="Right" Margin="0,0,12,0" Width="398"/>
+                    <TextBlock x:Name="ageOfChildYearsNew" Text="{Binding}" Grid.Row="3" Margin="0,0,350,0" HorizontalAlignment="Center" VerticalAlignment="Center" Style="{StaticResource PhoneTextLargeStyle}"/>
+                    <TextBlock Text="years" Style="{StaticResource PhoneTextSmallStyle}" Grid.Row="3" Margin="70,0,280,0" VerticalAlignment="Center" HorizontalAlignment="Left"/>
+                    <TextBlock x:Name="ageOfChildMonthNew" Text="{Binding}" Grid.Row="3" Margin="140,0,210,0" HorizontalAlignment="Center" VerticalAlignment="Center" Style="{StaticResource PhoneTextLargeStyle}"/>
+                    <TextBlock Text="months" Style="{StaticResource PhoneTextSmallStyle}" Grid.Row="3" Margin="210,0,140,0" VerticalAlignment="Center" HorizontalAlignment="Left" />
+                    <TextBlock x:Name="ageOfChildDayNew" Text="{Binding}" Grid.Row="3" Margin="280,0,70,0" HorizontalAlignment="Center" VerticalAlignment="Center" Style="{StaticResource PhoneTextLargeStyle}"/>
+                    <TextBlock Text="days" Style="{StaticResource PhoneTextSmallStyle}" Grid.Row="3" Margin="350,0,0,0" VerticalAlignment="Center" HorizontalAlignment="Left" />
+                </Grid>
+            </phone:PanoramaItem>
+
+            <!--Panorama item two-->
+            <phone:PanoramaItem>
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="96" />
+                        <RowDefinition Height="120" />
+                    </Grid.RowDefinitions>
+                    <TextBlock Text="details" Style="{StaticResource PhoneTextExtraLargeStyle}" Foreground="Orange" Grid.Row="0" />
+                    <TextBlock x:Name="eventDescription" Text="{Binding}" Style="{StaticResource PhoneTextLargeStyle}" HorizontalAlignment="Left"  VerticalAlignment="Stretch" Grid.Row="1" TextWrapping="Wrap" />
+                </Grid>
+            </phone:PanoramaItem>
+        </phone:Panorama>
+    </Grid>
+
+    <phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar Opacity="2.0" IsMenuEnabled="True" IsVisible="True">
+            <shell:ApplicationBarIconButton Click="EditEvent" IconUri="/Images/edit.png" Text="edit"/>
+            <shell:ApplicationBarIconButton Click="EditAppointment" IconUri="/Images/feature.calendar.png" Text="calendar"/>
+            <shell:ApplicationBarIconButton Click="DeleteEvent" IconUri="/Images/delete.png" Text="delete" />
+            <shell:ApplicationBarIconButton Click="ReturnToHomePage" IconUri="/Images/close.png" Text="close" />
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>
+</phone:PhoneApplicationPage>

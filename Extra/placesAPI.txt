@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlaceSearchResponse>
+ <status>OK</status>
+ <result>
+  <name>DesiMD Healthcare Private Limited</name>
+  <type>hospital</type>
+  <type>doctor</type>
+  <type>health</type>
+  <type>establishment</type>
+  <formatted_address>HUDA Techno Enclave, Hitech City, Hyderabad, Andhra Pradesh, India</formatted_address>
+  <geometry>
+   <location>
+    <lat>17.4423350</lat>
+    <lng>78.3752250</lng>
+   </location>
+  </geometry>
+  <rating>4.8</rating>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png</icon>
+  <reference>CpQBgwAAAAnjSCr69VPCgkvMURVlA8SvEsjMxkXIarC9WWTwp8xgC3_-cBtBRQCaU-sde30b39YBdhxIf9En6A8CbIi0JSR8UH6TrUKLzOuhFJKWfoQPZBqeabR-Nxoc5o_EJiT1QVktGRU7cMwinUzrm6zxdNe2OuLdqc60_VPWayVspCSb23TfqERixY2i3Lwv6-GQYBIQ0B4Ljj_x_ThRSOMy2jOgGhoUVITo70L0hX2WTbg10AsvVbJgPag</reference>
+  <id>c2bee02eaaf85325f69175e90f83895960463d18</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CoQBcwAAAHKivlHCpkT53PxawEkedMVrsFuPNsJ59eB8Pv-9aUuDHXVKOSQupOgo5ZVFfe__k2OxE93Fw9fFi9Qjjaep8wOyHh6reLLZVBOyliDoSnORoWdqqfGQIBxeR2xphq8ENSd5D3Y_6DGmSqoo-wVwlgw_Ftp8hrudfn5cqBUVw3dOEhACn-3QWaW4JPH-wjnmbRUjGhRr-f6eaSz5MtC2Q8em4HT0b8E63A</photo_reference>
+   <width>250</width>
+   <height>250</height>
+   <html_attribution>&lt;a href=&quot;https://plus.google.com/102371756699754789446&quot;&gt;Varun Kumar&lt;/a&gt;</html_attribution>
+  </photo>
+ </result>
+ <result>
+  <name>Dr.Madhu's Advanced Hair Transplant Centre</name>
+  <type>hospital</type>
+  <type>health</type>
+  <type>establishment</type>
+  <formatted_address>3rd floor, Road no 36/37, Above Canon camera show room, Opposite Neeru's Emporium,, Road Number 36, Kavuri Hills Phase 1, CBI Colony, Jubilee Hills, Hyderabad, Andhra Pradesh, India</formatted_address>
+  <geometry>
+   <location>
+    <lat>17.4384290</lat>
+    <lng>78.3991290</lng>
+   </location>
+  </geometry>
+  <rating>3.9</rating>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CpQBjQAAAJUdTJ3ZEpmjQAZs4iz8SrIVNKaOJTlJWf90yxW2I5eRszV426943VEYvcU5IjBUHXpuWy4rZtaYcnJKM4HBho8PYA8kjIWiXkNT5lwYnSFMBbjILPgg9g884jCCPJUcvVvXgS3mbljI30ss0Nf95getgwpZJ9FUvKu7rn_zEjvNNOyr5CHbSWrdFhWdZeErtBIQi6HbxA4EQlObSFuvXeEWRRoU7HQNtcdFEbHTSEiL_lqPodF7vjI</reference>
+  <id>23940d5cb85c13147b99d70dd811d8b3a0926139</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CnRoAAAA1ejQUR57vkxm3e1ZEvMuoQr2QgUah9zA9Z8y7XbcaNuZ364dJazSmBfCLszSYbVbJS9zcbZMDKTgXyY-67OdSmp8mebyLDnEwJ9wSldS5FVuFUyRfNyql_IrDAyIOlG57evGLLHv-hX1jU52LeIUsBIQPJXdJWy8FSLys0mRXdearhoUKAJqnqSvltEj8Y1qu69LA9B2kNk</photo_reference>
+   <width>636</width>
+   <height>481</height>
+   <html_attribution>From a Google User</html_attribution>
+  </photo>
+ </result>
+ <result>
+  <name>Srija Hospital</name>
+  <type>hospital</type>
+  <type>health</type>
+  <type>establishment</type>
+  <formatted_address>Plot No.39,Vittal Rao Nagar,Adjacent to DCB Bank,Opposite Water Tank,Madhapur,Hyderabad, Andhra Pradesh 500081, India</formatted_address>
+  <geometry>
+   <location>
+    <lat>17.4440220</lat>
+    <lng>78.3848040</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CoQBcQAAAMH6nHjJ9Mk0lOHLkoqTbPnqvwbN5n8UNQEZvqhOfYKJf2K8Y7Ot1WtKF8MzwnKHFKaQEDcUIc1b9t9yzJv6raUrYVkvIP_739VPK3rSUhxLRYxTcFSvJjiI9lT5NUxQEZiAUAzeHvFeqprCHRl4geIGNRfN6Mw2GAm5W3fuapcgEhAYYQoVE-2ZwEckX5wf65pdGhTA38SvVEzEkGUoz4RzxxaTzRkaQQ</reference>
+  <id>85db89123741c250969089032f8ec44ddcdc2b5d</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+ </result>
+ <result>
+  <name>Hegde Hospital</name>
+  <type>hospital</type>
+  <type>doctor</type>
+  <type>health</type>
+  <type>establishment</type>
+  <formatted_address>#67/68 vittalrao nagar , Karachi bakery lane Madhapur ,R.R.District, Madhapur, Hyderabad, Andhra Pradesh, India</formatted_address>
+  <geometry>
+   <location>
+    <lat>17.4446280</lat>
+    <lng>78.3847900</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png</icon>
+  <reference>CoQBcQAAAJTo979lQg2F08Ad9vSwAHDQFisC8IwmQVt9htfjpSa1zBzpDUjjyL_yRjU2Ovxa7suTOnEsUieBbcfWeJ3A8sbVF5mBJ3uznFD9Jsi0GBqqMk7c4cLBDwMfo3OzZNFy2bivrXGA6PUVfQNJwpQV4wdaOMRjesOYLfPVJAWVHuPxEhBlsRGaF8e7wcu9lR0s5hBDGhTsW4bVx2a8tmeE_cC233l0U0Mqqw</reference>
+  <id>aada84b7beee6fd1d331030286a8c971cc36edc6</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CnRnAAAA8izcWV2q8_nmzusfermYaz8264u7OE5kZG-5MRme_VyQ4xQ9wgMx5EChBHNAI14_EkOP-8--nEwrmMhhjK7OIwNtBh3KODKgBUUFoyBbeo5bBeltYC0eW8UBCbVgNBQVY8xh6biVwcV2sL-5-pqJExIQh-wxmVCltngjIgggc8UxIBoUli6SESgOY3C4IMA_-UhZOVmGLyw</photo_reference>
+   <width>990</width>
+   <height>302</height>
+  </photo>
+ </result>
+ <result>
+  <name>spintas health care</name>
+  <type>hospital</type>
+  <type>health</type>
+  <type>establishment</type>
+  <formatted_address>Ayyappa Society Rd, Ayyappa Colony, Madhapur, Hyderabad, Andhra Pradesh, India</formatted_address>
+  <geometry>
+   <location>
+    <lat>17.4425150</lat>
+    <lng>78.3915030</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CoQBdQAAADRYqtlx6RlWl3-tuDArYF-tcH_lUQliFPb0QV4yLEO_X1_Q4W9gqkYNmhTkSwogHPrJRzbleVIV5tI5kFNTJZkwE3e8UU8CR7eDNhC5cWtFswySmIlkYGS9elMNM_sAHHcJFtY6URm41TwcXDTYcCH3RNxlp6Um4X1jCRtd96XYEhCCNQJ6w0J1uSBHjjTPE5kHGhSd-c6sHBoUFhJnatpCxeescwM-iw</reference>
+  <id>2da1dd27ee5ae33d2e55d56d364d5fb1ccc5bb75</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CnRqAAAA_EBFCYyS5kFH2RejTNZqKXzXtgEqsoHTch5IHXprnFqLa3pbkgey4nov0CxU2R5cvtSBmhbMK4vLtjI-6Eys1TgEWjSZpvxaj8fyrQAnCS36IhEgID0yvS2W5mMy9DtSZESVYe4rviZfHqYQZJLZHRIQj6HzdbHdQqd605KruPKiLBoUqlS4QVUsJll5ZLOCPvixJdElsTA</photo_reference>
+   <width>640</width>
+   <height>480</height>
+  </photo>
+ </result>
+ <result>
+  <name>Apollo Pharmacy</name>
+  <type>hospital</type>
+  <type>pharmacy</type>
+  <type>store</type>
+  <type>health</type>
+  <type>establishment</type>
+  <formatted_address>D.Number 2-41-13,Kothaguda 'X' Roads, Gachibowli Miyapur Rd, Hanuman Nagar, Kondapur, Kothaguda, Hyderabad, Andhra Pradesh, India</formatted_address>
+  <geometry>
+   <location>
+    <lat>17.4637850</lat>
+    <lng>78.3670060</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CoQBcQAAAPQdFS6ZolMoPQHrL-udYafvHOJLVoq22ed0NCjMjTXKbXTlTmKlukp0Klnmd-WoTKV-rsWUF00RmN_fgmN2heG6Yd-8hKpCRroU5bF9OpTsCV5xHjfEzIKWVxvVQqkQtFYlxSD4dCt31oQFcVgytWPRR72GTIaaH0V10hNGoPTXEhAxh7mtpkZPlGxZ7KH5dG57GhT5LtxIJFAjSmR45B2U-Xj2o62ATQ</reference>
+  <id>549a22d8064ebae479a4fd8e2bb727e72b5c8b80</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CnRnAAAA8rTOK-fRBbZ6D2HZ39k45I6c8uCfCksWg_rgNnSexqCfN-T1u0VNY3A7bnXs8xFMi6dOhjmKvg-CjCyvDkTwCtXx7u9BXzmwwokhhGhNIveImP8NYFQ0g4B6F-nvZjtk2KvDSoEDBU3zfNd85qSd4hIQm5vq11BiOuJJujGol-VM8xoUDRlYDq3lwqHqCC-LvI05IXv2aaM</photo_reference>
+   <width>853</width>
+   <height>1280</height>
+  </photo>
+ </result>
+ <result>
+  <name>KNM SMILE DENTAL</name>
+  <type>hospital</type>
+  <type>dentist</type>
+  <type>doctor</type>
+  <type>health</type>
+  <type>establishment</type>
+  <formatted_address>Dr Madhu Vasepalli, KNM Smile Dental Hospitals, 1-90/2G, Adj Dominos Pizza, Hite, Hyderabad, Andhra Pradesh, India</formatted_address>
+  <geometry>
+   <location>
+    <lat>17.4442950</lat>
+    <lng>78.3865070</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/dentist-71.png</icon>
+  <reference>CoQBcwAAAHRUsrTOVLtOMuVRranMNPhuKlRyIl6-ownV3pbDH-h1AFvI9R_EezxxxaSWq-HlWjpqWQEmcfK-RKIIL9C6UvpEJSt3BO-EZ5ubg4uEP2uHtSQnWCK7_xVS2q3O8GPFpyFvQSiD6gebL35Zw4iJH2oBncPSEegg0mTPObmuhEq3EhBA61dax9WK6aGy1VnIO28SGhQ8FLJIf1n4dto_3CURBnQ4ltOJnA</reference>
+  <id>559ea7494135de66c2ed47b178b98269bd6cbc18</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+ </result>
+ <result>
+  <name>Neel Dental Hospital</name>
+  <type>hospital</type>
+  <type>dentist</type>
+  <type>doctor</type>
+  <type>health</type>
+  <type>establishment</type>
+  <formatted_address>Gayathri Nagar Water Tank Rd, Hyderabad, Andhra Pradesh, India</formatted_address>
+  <geometry>
+   <location>
+    <lat>17.4543780</lat>
+    <lng>78.4009590</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/dentist-71.png</icon>
+  <reference>CoQBdgAAAG9QfWVbBMN0t4E0IBrZtd7A8mTjuuMNf3K2-pAlFMc9KhS_RmDkz30pcHSdQmr4quzmF9VEReFhq2bzgLSUintllpy8VU-8wqrei6SdR70wuOuFpRiOJXTzE45N2j1LI_-vGo7KHaL4Q4txDJj5vrKx0CP8jWjd_quhFghRaBuhEhBvoz2bO5BBvrpy0jy9ZPX3GhRT4Z2IbI_cBO1DVdT33xgxxfS_Jw</reference>
+  <id>99047fbe2d2d0c38cdb306e6c688ed3f88e2e28d</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CnRrAAAARuPCJXaqRJNK-KluiUmwTEBo2M95OoJ3S4OkAjwT-5K-kKmpUow0pn7A7OjbwoBqaoMtrqSGi9E55zA0tEM0I_H8feJphQFzi7knVUz9LPYXdMouoUjiVQE2XhivkcrK6ukKdRDJijaPj6ahiwzIuhIQaozxvuB8CGKsMGUMVvYdQhoUOM56iO7XJOeKzRBoBvv18gWbYSk</photo_reference>
+   <width>4368</width>
+   <height>2912</height>
+   <html_attribution>From a Google User</html_attribution>
+  </photo>
+ </result>
+ <result>
+  <name>A P Super Speciality Dental Hospitals</name>
+  <type>dentist</type>
+  <type>doctor</type>
+  <type>health</type>
+  <type>establishment</type>
+  <formatted_address>Plot no-89, lane Adj.Annapurna Studio's,Road No-2,Banjara Hills,, Park View Enclave, Jubilee Hills, Hyderabad, Andhra Pradesh, India</formatted_address>
+  <geometry>
+   <location>
+    <lat>17.4253900</lat>
+    <lng>78.4225020</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/dentist-71.png</icon>
+  <reference>CpQBiAAAALNCcTh7rnkzjQ66PdVEbPuWSCJs2-H8H_eH-1PCs72g_RuAYB9T1ChHbwjemVEcAn8IJvd4H30K7-lxJHgSVCaQv8I5kBMjlJ-7xNChPTr3dulL9QWlx57tEeN_zDc7wE5-4FC44UFkA5SoNFYyoCutEtfNr4_kqdcW0ADBBK-WWjsEmoU27l5_O86iXkDIuxIQB3pkcS7OJMn8pPN9C2_zwxoU0_-ZBGlJ0YvbaabvHrOdBAKNY1Y</reference>
+  <id>db7af5a93954ddbeee425197822fe9f424a76408</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+ </result>
+ <result>
+  <name>Global Eye &amp; Laser Hospital Private Limited</name>
+  <type>hospital</type>
+  <type>doctor</type>
+  <type>health</type>
+  <type>establishment</type>
+  <formatted_address>Plot No.197, Road No. 1 KPHB Colony, KPHB Phase I, Kukatpally, Hyderabad, Andhra Pradesh, India</formatted_address>
+  <geometry>
+   <location>
+    <lat>17.4910940</lat>
+    <lng>78.4010890</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png</icon>
+  <reference>CpQBjgAAAMxZRmACTyX7so5oOMhoM8x43G-nJPN-PyhduEqS_EcHPlEzaZHwgvUtwk1GJajEFh5FNUovDk9lkT_KTtMVvg7ywW6hJdbu4DJjnLcI61lGTf4j3SdNDZsjPQyBshhP3LpdKLsG-R0zqu0D-jB5aACUw0zhIQq1zxaYl9kPjtO8H-QmcKDrtFLBLu0byv2kbRIQk1nF70UDN0nbc0brl0xk5BoUqwWRZ-kc8SsH-5YAxV7MBnX57Rw</reference>
+  <id>6705abafa0d4a1ee805b58380bdc8a297462420e</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+ </result>
+ <result>
+  <name>Universal Superspeciality Dental Hospital</name>
+  <type>dentist</type>
+  <type>doctor</type>
+  <type>health</type>
+  <type>establishment</type>
+  <formatted_address>1-62/1, Tirumala Subhash Complex, 2nd Floor, above Sujana Super Market, Gachibowli Miyapur Rd, Forest Dept Colony, Kondapur, Hyderabad, Andhra Pradesh, India</formatted_address>
+  <geometry>
+   <location>
+    <lat>17.4581540</lat>
+    <lng>78.3655480</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/dentist-71.png</icon>
+  <reference>CpQBjAAAANFi2uMf8Fz284Tmh66129ca_cpapODMBiKfqp7_xMsvQdh9eyG5frc8FCidq_wERsPoljHOTQQd6i5rT7wR5V08EZGiKzAhXtgw4gpVSeq6xpyuyfKNAGaoOmWm4Yj3vKxnJkrmeimlZPzX7PKzZmjJor8eEIuVw-ou2Mbw3_Jk9PtNrjr03Nxzedcedok0axIQc7oywmw8VaQgTBIEto-23BoUVKXz5rLaO49WdikkvdKAj6Y6Ql0</reference>
+  <id>f2c4e8debca4bef1cea82e9076678b37ebffdd31</id>
+ </result>
+ <result>
+  <name>My Health Pharmacy</name>
+  <type>hospital</type>
+  <type>pharmacy</type>
+  <type>store</type>
+  <type>health</type>
+  <type>establishment</type>
+  <formatted_address>H.No. LIG-226, Indu Projects Road, VII Phase, KPHB Colony, Kukatpally, Hyderabad, AP, India</formatted_address>
+  <geometry>
+   <location>
+    <lat>17.4747560</lat>
+    <lng>78.3851790</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CoQBdAAAAK7Hrk2jQlk2qNYdm9feAT_0dBbC0Srp7QW3UtcIQ9zPVw2M2AY8GCzD7Cl6SJoN7oYkgisM7K4XCfTvD_w8HU0vNYGqEuZsFhSwDCXI8oFLhx1LwrSsi2WD0rxB6lP5PqBcAcB9lLv74_MDe-P3lawaGhsWx2w8WDqEt44z3fK8EhBsfatCCnAgS7Ytiq-x1OlVGhStjLHbzFrZoMnLsiUst8PdAVTPkg</reference>
+  <id>03efc090f53256f0aeb5c404ae06111d69c3361d</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CnRnAAAAdhyaAT71_jVZOUj1hVemgERGcFnd2lZVR4fULbXADyIkFjJZesnYnvpb1MPTAcHdLDw4Ij9_Bfa184pX31X5lyWGqj6e2sCOchiKo9XtwhQek6TqTvlkO_l6p-KmeJ0G8bnzknFkpE78XttFH6QtcRIQJgIFh-7AqN04XVMBQ_6UHhoUJULwcey29uY47x4oaW2SGs_ScW4</photo_reference>
+   <width>2048</width>
+   <height>1536</height>
+  </photo>
+ </result>
+ <result>
+  <name>Oliva Hair Transplantation &amp; Cosmetic Surgery</name>
+  <type>hospital</type>
+  <type>doctor</type>
+  <type>health</type>
+  <type>establishment</type>
+  <formatted_address>Road No.36, Baskin-Robbins,, Jubilee Hills, Hyderabad, Andhra Pradesh, India</formatted_address>
+  <geometry>
+   <location>
+    <lat>17.4342340</lat>
+    <lng>78.4045420</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png</icon>
+  <reference>CpQBjwAAAFj8UtuV1U9rAiLvJA15qf6DKQJoDXoq9zgO0m8_YOwFmLSQ3dQsf0AXANG2o_badma8uE1hQrQWwu-mpU6OnvrI_GgkD_5FLhiABDBwRprZ5nWzOPdU8S__39LwAc2J34ruwagQqqwBlkZg0vhz1cZLI8sfcuIUg7EHO5FhCxwipM8AVs-gk05uLaafIz-wNhIQUcb8jIEevfXWL_hE55cFexoUh5V2RNRZe8utywmE_ewoJ2dHaWo</reference>
+  <id>8660c623a35b1fe931a549072297b383dbd73c02</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CqQBnQAAACnH1ZQezEwHcicTotXUMFAZZGqGDmeDJ3GWoGj100IjlTvYX41hFt1zBZ1gL0SlbmJWlcrMI7x99OZ-xCpFdZ2YMN1yhkYnoFq-_tL7r3FhzFbijM-LHPGZWLcqKbRkGrLQndFr68ybXh1cA07tixfc8j5f5crcsynfXGa1PTiDL7HUppwl-seNtNIhEV9N_ix-XrGBrnHOld-BCFzkCPgSEHRv_Y94CgQT3vJj_pK6ogoaFFwcmgombiNQTyLz_kBARsvWifFT</photo_reference>
+   <width>3888</width>
+   <height>2592</height>
+  </photo>
+ </result>
+ <result>
+  <name>Lakshmi Narayana Speciality Clinics</name>
+  <type>hospital</type>
+  <type>pharmacy</type>
+  <type>store</type>
+  <type>dentist</type>
+  <type>doctor</type>
+  <type>health</type>
+  <type>establishment</type>
+  <formatted_address>8-3-231/W/49, Near State Bank of Mysore, Jubilee Hills x-Roads, Road Number 2, Krishna Nagar, Women's Welfare Housing Society, Yousufguda, Hyderabad, Andhra Pradesh, India</formatted_address>
+  <geometry>
+   <location>
+    <lat>17.4307020</lat>
+    <lng>78.4243150</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/dentist-71.png</icon>
+  <reference>CpQBhQAAAGSN4t0BvWpQ16rS_c_NoKX-D943m5T6ES5z2OJvB-_qpZURLxYVHc-NF8HdDDzO0mggrNS8iIruIW8QWl2gbcdOKRbxBGtonyaKdQToqvvNNOjZTNAUkM0Y5AfDcqELBBQ59VnjxZUqDNSNfF05NK2J9A0oLTjwhSK1_FsrnVG8jUaRGHyFu4xk7Wqh3n3DyBIQXDanjQ9Kgm0L1fbrODOTShoUFrRlBKzgc3rdldA-MDa5e2rkU0Y</reference>
+  <id>aa82dba1d511560d7f2dbe510f5cecc759763b64</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CnRnAAAAbBdoVv3fxsGNNrbwuA0ewStNfZT-bTdfFctlX33py2ZVlLtDO6iSClEu81K0p2T1gnrc8hpISmJavJSXICLwZYbA9mrvjAYmcZdgcuzBOpVLt_qq4yt2Xl-luAWsx5w-0HQMzmc7wIRazKHzk9IhHxIQ0CwNe7Ptrwg7IUfqGW1-ehoUti1989Gx4Imo4Sp8H_8Jf2O3I9A</photo_reference>
+   <width>550</width>
+   <height>371</height>
+  </photo>
+ </result>
+ <result>
+  <name>Surakshaka Multi speciality Hospital</name>
+  <type>hospital</type>
+  <type>dentist</type>
+  <type>doctor</type>
+  <type>health</type>
+  <type>establishment</type>
+  <formatted_address>Mig-218, KPHB Main Rd, Kukatpally, Hyderabad, Andhra Pradesh, India</formatted_address>
+  <geometry>
+   <location>
+    <lat>17.4933340</lat>
+    <lng>78.4013130</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/dentist-71.png</icon>
+  <reference>CpQBhwAAAOhAcW29iCd7MdscqI_jX_wMYNihw5VP97KaQiw5oPUDAZi79HCYdXRWdPaB4nthnOce7ibviIA7JGvCedhJri1f-EMpj3LG7Dq-CVQb7Y2Kh8MnCmlVWkjUNVdBV79rie1QSF93xabGSUBqNwoLIRco7h3Yu4XQGEl-1ZAnbwUZe4RjzQ63_9CaGel9yUBhnxIQVYZqj6FOEhAAw71evHzuoxoURKk70fbmnCJ5DFy57kE1pdZUkDM</reference>
+  <id>b79e302c7c7093e7a212936e2cc90277cdd71f1e</id>
+ </result>
+ <result>
+  <name>Mamatha Nursing Home</name>
+  <type>hospital</type>
+  <type>health</type>
+  <type>establishment</type>
+  <formatted_address>KPHB Phase III, Kukatpally, Hyderabad, Andhra Pradesh, India</formatted_address>
+  <geometry>
+   <location>
+    <lat>17.4888170</lat>
+    <lng>78.3959890</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CoQBdwAAABQ9FUJuLJSRGRbAwuEQYfb9O8o3gWXvo8lX52a49NHnnYKgYwY8X6ddEvb-1OtcAs7F2HRs69_ZaR4lkqzHJ-uBGneHNj-k5jk-4fhdoBTbaLsq6Lcc5qT8lG_McR4QA7zwwm8-Zd71StGvnTntZ6i8pVL_vX4Y2n3Sb-2cn3aGEhBsesqajNOAIDQTekElK-zEGhSOdEIKGlpbJHH_AbGIVIp0_K4yHA</reference>
+  <id>4177d9b3ae782da8af1129518d18dd2265086ba8</id>
+ </result>
+ <result>
+  <name>Align Digital Diabetes Centre</name>
+  <type>hospital</type>
+  <type>lodging</type>
+  <type>dentist</type>
+  <type>doctor</type>
+  <type>health</type>
+  <type>establishment</type>
+  <formatted_address>Madhava Reddy Colony, Gachibowli, Hyderabad, Andhra Pradesh, India</formatted_address>
+  <geometry>
+   <location>
+    <lat>17.4316780</lat>
+    <lng>78.3500880</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png</icon>
+  <reference>CoQBgAAAAGF82RX0bPzCkWRIX5voDy_Ky4Puqm0DIjAXr4s8GI9u1reg2W4y-BydNc7stA6dRuC9ZKb4GTN4XFEbSc_wMwu80VcCFjVjVEeou-kliaxX8JFQMiZC_bogWXzKb8gcB4OGNrCGv4filoxQS34ByS9odRH8GUwXQWX9w4niiNAQEhCHE-szaQg9ykTZ_7qyInt0GhRsOKwy4A1ZFf3hMRQ5GO1OrUaHZg</reference>
+  <id>88c0d2cc30f9a2266d9626e9243ad485a9974c59</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CpQBgQAAAN4a1wNibXkJQowrYUy2AS_ihzh3hd0jsQsYN6Mor2ZMsVy10jscWr74XzLO-r-9SLg6CO6wcl1CzwSYvQ2vXBGrbBYej9ULeZ_sk4gZeNn2WmJR-EnggVHMpQ7Jbop7NA1jugCXCvO-cEMby-aUX9u6YKK9qWzNpfdiuQORPPkqXLsmEuykoJtC1KD34d37-xIQAwMaiznZwmDIDiZDROAsrhoUbloaf_g8TG_YBJzOJtKAmG_Xnes</photo_reference>
+   <width>1365</width>
+   <height>2048</height>
+   <html_attribution>&lt;a href=&quot;https://plus.google.com/100525988558250723912&quot;&gt;Anil Perisetty&lt;/a&gt;</html_attribution>
+  </photo>
+ </result>
+ <result>
+  <name>Sunshine Dental Clinic</name>
+  <type>dentist</type>
+  <type>doctor</type>
+  <type>health</type>
+  <type>establishment</type>
+  <formatted_address>Plot No.150, Opp.Pratual Honda Showroom,Kothaguda, Kondapur, Hyderabad, Andhra Pradesh, India</formatted_address>
+  <geometry>
+   <location>
+    <lat>17.4619100</lat>
+    <lng>78.3668570</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/dentist-71.png</icon>
+  <reference>CoQBeQAAAO5HScwkdsEJnU-vf_oarWtmy1SpTtv33zQ_X1zSJ2rZp_UkW-s6MQ5PqLwbt4ysIysiGMUl-QFofnkaXsloRhx43hbKUokHk2WtKtZwxIYGpDlOWso7xip0LBTTgTct9pXQsAv6b7r-FaYGRf8KnHdfm5QkAsO-DKCXI5frNy9CEhC0H8-DE6jANL2JKHeHpF69GhRlxT0Nluq0EVNhjiuAzPnoIYL_yQ</reference>
+  <id>7181e864f0cf03057c61c2ed4bb5e950efc20d29</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CnRnAAAA-uY_1dAP995HV9JpO0qVXAFCN7ME0UoGlFr92Q0t_kaLKN4jlvrIUjnccf9f8b_K_QkF6_IKfb5jZGMohSiU52kj_9azCb9LH3vJwm81a450BprPJVgcKdrcWZ3cPLtVp6-0-D8PJ8PCRJvMcUpaeBIQx7gkZqEYVplBxsGUBChK7BoUUXzw94o8fmSG_JqruzJXSXL-_ME</photo_reference>
+   <width>623</width>
+   <height>439</height>
+  </photo>
+ </result>
+ <result>
+  <name>Venu's Dental Hospital</name>
+  <type>dentist</type>
+  <type>doctor</type>
+  <type>health</type>
+  <type>establishment</type>
+  <formatted_address>1-99/40,adj Hyderabad House, Hitech City Rd, Madhapur, Hyderabad, Andhra Pradesh, India</formatted_address>
+  <geometry>
+   <location>
+    <lat>17.4415510</lat>
+    <lng>78.3905620</lng>
+   </location>
+  </geometry>
+  <rating>3.6</rating>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/dentist-71.png</icon>
+  <reference>CoQBeAAAAOY-iHt40jhlNTmATFxFodYAH5RFNe0lDMXuQJjgzilpC7D8ZkF9Ffl1J8Akhtd58ANrZiV9iOkgUdF2CuDEJNRJwIJ998g8HlPtZI5B8s6--0-W3vNmna4-oGwY7vDTwH-OtZkX_M8iXvZkWSmWfLDx58Eq_e7t3r23ElcbKUsOEhA0c1boyPWQ560SanVjJWMpGhR2PLazbnTmepHjYHEaCr3bRkCzlw</reference>
+  <id>d08b298e83153f9b2f8fea8dc81ac438c61884a2</id>
+  <opening_hours>
+   <open_now>false</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CnRnAAAAec2JJxIbQu7lCN28kRBAQpITFdMLget-cKW_8ywzZKwmAWO2ga0PLaoqqQWVIBUzAz2njz9tyyPNAW3wl_1a7K4uzZsZ-APCrpOtf5JRkYVYYikIWXrr5wmLQAmdJGKgjvxqXvP1KxrkzpvvEnYjIhIQJKVoIH7gfJMlktRNpsXPeRoUhI-O6PTrjBC5CFFXa2sDipQx2KU</photo_reference>
+   <width>1280</width>
+   <height>853</height>
+  </photo>
+ </result>
+ <result>
+  <name>Dr. Lall's Psychology, Nutrition &amp; Diet Clinic</name>
+  <type>store</type>
+  <type>health</type>
+  <type>establishment</type>
+  <formatted_address>Inorbit Mall, Inorbit Mall Rd, Vittal Rao Nagar, Hitech City, Hyderabad, Andhra Pradesh, India</formatted_address>
+  <geometry>
+   <location>
+    <lat>17.4324630</lat>
+    <lng>78.3882550</lng>
+   </location>
+  </geometry>
+  <icon>http://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png</icon>
+  <reference>CpQBkAAAAJBaXKGCoRvUyfczpE3MOHqP5olnvKuwNHyiZDVNB-ee-l7tWedBMpzf9xcZJapbP6MfttcOnp4shQGUNDHgPYbBzmo2gYVW-hLvJxBM4k2IOaIogdGbiuIwjCqI-6qA4iCnEoCwNoMrHPc083roBfzjFcmulbrC1JsoA2lTcrg1MhGozBYcCmKHBAnGWdq5ERIQAcUq9BIatsTwOpEu8myhAxoUme7-8l3KvwfcDgGL3wG4g8vMh-c</reference>
+  <id>6016bfe30c88f45ad4f3e28e73a973d9963f08f7</id>
+  <opening_hours>
+   <open_now>true</open_now>
+  </opening_hours>
+  <photo>
+   <photo_reference>CnRnAAAAWP0pdn1YHoFlxL234QIFycxTzhZZOGeycdNdPSWVCmJUu1s8AyUX_6enaP2awBYGXkdtlu8tTRd03UvsKPk3mnt-Pq5_kGNZpH3TIv75uprGgPYfjD8Vu5EFqNvITdWnNfJqJaOS9Dw_xZghxqrfZBIQmwK6tkxeOG7DV0DHjNZk0RoUJCz0Y0qGwwIe_BFB8nH8V0aPcek</photo_reference>
+   <width>512</width>
+   <height>385</height>
+  </photo>
+ </result>
+ <html_attribution>Listings by &lt;a href=&quot;http://www.indiacom.com/&quot;&gt;Indiacom Yellow Pages&lt;/a&gt;</html_attribution>
+ <next_page_token>CoQCAAEAAJ9Sk5aRfDrY_R3w3Ocn68kLgsjlXSg5T-Ql9st2r6Sz9pkdl_Sdr8yxKaDyVp83GFRV_Cw1z5VgctvJzt68h32KjucAkm7Bzam01TF6RoVymGcbDc-toH-gxHN5UHR1D-ZHdpWofZWNUZxYqqJg2X0jd-haK3Rj46NgFuIVRze42P5u3saD70GtV8dNxzI9kzZWDbjBGdtpw5GGeW1u8E495V2k-hAO8J58S6q4Dr3ZjW_tAWAlD-tbbA5ShbhCYFSlc5jeMM0XlnjT_0m8PwQks_EwMcnmmcWf-M3nfGr-fkg3Ydxmy0DzJ7OrxOBw8WUtlKNXIae_N-xkp7vuDiYSEGyP_chszp0qqtKFnUg3dN0aFA437SMITAPd0lL8DzhNqTdMgI9a</next_page_token>
+</PlaceSearchResponse>
+

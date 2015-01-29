@@ -1,0 +1,44 @@
+Diet;10 Steps To A Healthy Pregnancy;http://matris.blob.core.windows.net/health/diet/10-steps-to-a-healthy-pregnancy.html
+Diet;Choosing Your Maternity Hospital;http://matris.blob.core.windows.net/health/diet/choosing-your-maternity-hospital.html
+Diet;Diet For A Healthy Pregnancy;http://matris.blob.core.windows.net/health/diet/diet-for-a-healthy-pregnancy.html
+Diet;Eating At Work Healthy Options During Pregnancy;http://matris.blob.core.windows.net/health/diet/eating-at-work-healthy-options-during-pregnancy.html
+Diet;Eating Well 0 8 Weeks;http://matris.blob.core.windows.net/health/diet/eating-well-0-8-weeks.html
+Diet;Eating Well 13 16 Weeks;http://matris.blob.core.windows.net/health/diet/eating-well-13-16-weeks.html
+Diet;Eating Well 17 20 Weeks;http://matris.blob.core.windows.net/health/diet/eating-well-17-20-weeks.html
+Diet;Eating Well 21 24 Weeks;http://matris.blob.core.windows.net/health/diet/eating-well-21-24-weeks.html
+Diet;Eating Well 25 28 Weeks;http://matris.blob.core.windows.net/health/diet/eating-well-25-28-weeks.html
+Diet;Eating Well 29 32 Weeks;http://matris.blob.core.windows.net/health/diet/eating-well-29-32-weeks.html
+Diet;Eating Well 33 36 Weeks;http://matris.blob.core.windows.net/health/diet/eating-well-33-36-weeks.html
+Diet;Eating Well 37 40 Weeks;http://matris.blob.core.windows.net/health/diet/eating-well-37-40-weeks.html
+Diet;Eating Well 40 Weeks And After Delivery;http://matris.blob.core.windows.net/health/diet/eating-well-40-weeks-and-after-delivery.html
+Diet;Eating Well 9 12 Weeks;http://matris.blob.core.windows.net/health/diet/eating-well-9-12-weeks.html
+Diet;Herb And Drug Safety Chart;http://matris.blob.core.windows.net/health/diet/herb-and-drug-safety-chart.html
+Diet;How To Choose Your Gynaecologist;http://matris.blob.core.windows.net/health/diet/how-to-choose-your-gynaecologist.html
+Diet;Preparing For Your Doctors Visit;http://matris.blob.core.windows.net/health/diet/preparing-for-your-doctors-visit.html
+Diet;Questions To Ask Your Doctor In Your First Trimester Check Ups;http://matris.blob.core.windows.net/health/diet/questions-to-ask-your-doctor-in-your-first-trimester-check-ups.html
+Diet;Questions To Ask Your Doctor In Your Second Trimester Check Ups;http://matris.blob.core.windows.net/health/diet/questions-to-ask-your-doctor-in-your-second-trimester-check-ups.html
+Diet;Questions To Ask Your Doctor In Your Third Trimester Check Ups;http://matris.blob.core.windows.net/health/diet/questions-to-ask-your-doctor-in-your-third-trimester-check-ups.html
+Diet;Vegetarian Recipes For Pregnancy;http://matris.blob.core.windows.net/health/diet/vegetarian-recipes-for-pregnancy.html
+Diet;Weight Gain In Pregnancy;http://matris.blob.core.windows.net/health/diet/weight-gain-in-pregnancy.html
+Diet;Why Is It Important To Drink Water During Pregnancy;http://matris.blob.core.windows.net/health/diet/why-is-it-important-to-drink-water-during-pregnancy.html
+Exercise;Avoid Overheating During Exercise;http://matris.blob.core.windows.net/health/exercise/avoid-overheating-during-exercise.html
+Exercise;Dancing In Pregnancy;http://matris.blob.core.windows.net/health/exercise/dancing-in-pregnancy.html
+Exercise;Exercises Recommended Throughout Pregnancy;http://matris.blob.core.windows.net/health/exercise/exercises-recommended-throughout-pregnancy.html
+Exercise;Jogging And Running;http://matris.blob.core.windows.net/health/exercise/jogging-and-running.html
+Exercise;Pregnancy Exercise Guide;http://matris.blob.core.windows.net/health/exercise/pregnancy-exercise-guide.html
+Exercise;Protecting Your Back And Pelvis During Pregnancy;http://matris.blob.core.windows.net/health/exercise/protecting-your-back-and-pelvis-during-pregnancy.html
+Exercise;Swimming;http://matris.blob.core.windows.net/health/exercise/swimming.html
+Exercise;The Benefits Of Staying Active During Pregnancy;http://matris.blob.core.windows.net/health/exercise/the-benefits-of-staying-active-during-pregnancy.html
+Exercise;Tips For A Safe Workout;http://matris.blob.core.windows.net/health/exercise/tips-for-a-safe-workout.html
+Exercise;Walking;http://matris.blob.core.windows.net/health/exercise/walking.html
+Exercise;What Activities Should I Avoid During Pregnancy;http://matris.blob.core.windows.net/health/exercise/what-activities-should-i-avoid-during-pregnancy.html
+Exercise;When Not To Exercise;http://matris.blob.core.windows.net/health/exercise/when-not-to-exercise.html
+Labour;Breathing Techniques For Labour;http://matris.blob.core.windows.net/health/labour/breathing-techniques-for-labour.html
+Labour;Caesarean Section;http://matris.blob.core.windows.net/health/labour/caesarean-section.html
+Labour;Relaxation In Labour;http://matris.blob.core.windows.net/health/labour/relaxation-in-labour.html
+Labour;Signs For How I Will Know I Am In Labour;http://matris.blob.core.windows.net/health/labour/signs-for-how-I-will-know-I-am-in-labour.html
+Work;Is It Safe To Be Around Computers All Day When Im Pregnant;http://matris.blob.core.windows.net/health/work/is-it-safe-to-be-around-computers-all-day-when-im-pregnant.html
+Work;Maternity Leave And The Law;http://matris.blob.core.windows.net/health/work/maternity-leave-and-the-law.html
+Work;Pregnant At Work;http://matris.blob.core.windows.net/health/work/pregnant-at-work.html
+Work;Working Night Shifts During Pregnancy;http://matris.blob.core.windows.net/health/work/working-night-shifts-during-pregnancy.html
+Work;Your Health And Safety In Pregnancy;http://matris.blob.core.windows.net/health/work/your-health-and-safety-in-pregnancy.html
